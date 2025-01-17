@@ -1,1 +1,1 @@
-# Promp-to-image
+# Prompt-to-image Generator
